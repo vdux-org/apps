@@ -59,7 +59,10 @@ we build **systems that scale, perform and convert**.
 
 ## 🚀 Products
 
-### 🔹 Dynamic Desk  
+### 🔹 Dynamic Desk
+
+<img src="./og-image-en.png" width="800" />
+
 All-in-one project management platform for teams, freelancers and agencies.  
 → Agile tasks, communication, time tracking, integrations.
 
@@ -67,7 +70,10 @@ All-in-one project management platform for teams, freelancers and agencies.
 
 ---
 
-### 🔹 Dynamic Reservation  
+### 🔹 Dynamic Reservation
+
+<img src="./og-image.png" width="800" />
+
 Modern booking & scheduling system with embeddable widgets.  
 → Works with WordPress, React, Svelte, Angular, NextJS, Node and on any HTML webpage.
 
@@ -105,8 +111,10 @@ We focus on **clean architecture**, **DX** and **long-term scalability**.
 
 ## 🤝 Work with us
 
-👉 https://vdux.de/
+<p>
+👉 https://vdux.de/ </br>
 👉 https://vdux.de/en/
+</p>
 
 ---
 
