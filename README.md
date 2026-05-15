@@ -53,7 +53,7 @@ we build **systems that scale, perform and convert**.
   <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-3858e9?style=for-the-badge&logo=worpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-3858e9?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
